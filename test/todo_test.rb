@@ -1,4 +1,4 @@
-require './test/test_helper'
+require './config/environment'
 
 class TodoTest < MiniTest::Unit::TestCase
   def test_it_works
